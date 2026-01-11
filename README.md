@@ -55,5 +55,7 @@ I am a Computer Science Engineer with a strong focus on full-stack development, 
 
 ### 📈 GitHub Stats
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JACS002&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JACS002&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JACS002&layout=compact&theme=tokyonight)
+
