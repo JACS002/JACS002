@@ -48,6 +48,6 @@ I am a Computer Science Engineer with a strong focus on full-stack development, 
 
 ### 📫 Connect with me
 - **Portfolio:** [jacs.dev](https://jacs.dev)
-- **LinkedIn:** [in/joel-cuascota](https://www.linkedin.com/in/joel-cuascota-b49284308)
+- **LinkedIn:** [in/joel-cuascota](https://www.linkedin.com/in/joel-cuascota)
 - **Email:** joel.cuascota@hotmail.com
 
